@@ -1,5 +1,4 @@
 # Microsoft Applied Skills: Secure Storage for Azure Files and Azure Blob Storage
-
 🔗 [View my certification on Microsoft Learn](https://learn.microsoft.com/api/credentials/share/en-us/alpha-dl0/7A9A09F0F16B24EB?sharingId=studentamb_275602)
 
 ### 🎯 Skills demonstrated:
