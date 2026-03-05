@@ -18,4 +18,5 @@
 
 - ✅ **Data Protection and Encryption:** Ensured secure data storage using Azure-managed encryption and storage security best practices
 
-  [skill.pdf](https://github.com/user-attachments/files/25777766/skill.pdf)
+ ![skill_page-0001](https://github.com/user-attachments/assets/a2b22c19-7c90-4d14-94c6-67b48022b928)
+
